@@ -1,0 +1,8 @@
+Exemplo
+
+
+
+Para uso
+
+
+da zlib com       pipe
